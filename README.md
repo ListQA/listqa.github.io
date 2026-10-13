@@ -9,7 +9,7 @@ Accepted to **NeurIPS 2026 — Evaluations and Datasets Track**.
 
 ## Status
 
-🌐 Website link: https://listqa.github.io/.
+🌐 Project Page: https://listqa.github.io/.
 
 ## Authors
 - Mayank Kulkarni
