@@ -20,7 +20,7 @@ Accepted to **NeurIPS 2026 — Evaluations and Datasets Track**.
 arXiv: https://arxiv.org/abs/2610.19165
 
 ## Citation
-
+```bibtex
 @misc{kulkarni2026listqabenchmarkevaluatinglistformatted,
       title={ListQA: A Benchmark for Evaluating List-Formatted Factual Knowledge Retrieval in Large Language Models}, 
       author={Mayank Kulkarni and Rakesh Vaideeswaran},
@@ -30,3 +30,4 @@ arXiv: https://arxiv.org/abs/2610.19165
       primaryClass={cs.AI},
       url={https://arxiv.org/abs/2610.19165}, 
 }
+```
